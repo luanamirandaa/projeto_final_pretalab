@@ -26,10 +26,10 @@ Foram utilizados arquivos CSV contendo estatísticas mensais de crimes dos anos 
 ## Resultados
 
 ### Homicídios
-- O **RJ apresentou valores mais altos de homicídios dolosos** no início do período, mas caiu ao longo dos anos, se aproximando de SP.
-- SP teve uma distribuição mais **uniforme e estável** nas duas décadas analisadas.
+- O RJ apresentou valores mais altos de homicídios dolosos no início do período, mas caiu ao longo dos anos, se aproximando de SP.
+- SP teve uma distribuição estável nas duas décadas analisadas.
 - A capital e a região metropolitana concentram a maior parte dos homicídios em SP.
-- No RJ, os maiores volumes foram identificados em **municípios da Baixada Fluminense** (Duque de Caxias, Nova Iguaçu, Belford Roxo).
+- No RJ, os maiores volumes foram identificados em municípios da Baixada Fluminense (Duque de Caxias, Nova Iguaçu, Belford Roxo).
 
 ### Roubos e Furtos
 - Tem-se uma previsibilidade nos roubos, com picos em março/abril e novembro/dezembro.
