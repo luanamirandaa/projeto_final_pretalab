@@ -36,4 +36,11 @@ Foram utilizados arquivos CSV contendo estatísticas mensais de crimes dos anos 
 - Os furtos também apresentam aumento nos meses de férias e festas (janeiro e dezembro).
 - SP tem volumes significativamente maiores de crimes patrimoniais comparado ao RJ.
 
+# [PDF referente ao projeto](https://docs.google.com/document/d/15QciYWaeJ3cfnRrbr5o48P53zXran9BIRrkkW0UEX5E/edit?usp=sharing)
+
+# Equipe
+- Glenda
+- Luana Miranda
+- Pâmela Costa
+
 ---
