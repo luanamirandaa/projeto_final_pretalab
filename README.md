@@ -39,8 +39,8 @@ Foram utilizados arquivos CSV contendo estatísticas mensais de crimes dos anos 
 ### [PDF referente ao projeto](https://docs.google.com/document/d/15QciYWaeJ3cfnRrbr5o48P53zXran9BIRrkkW0UEX5E/edit?usp=sharing)
 
 # Equipe
-- Glenda
-- Luana Miranda
-- Pâmela Costa
+- [Glenda](https://github.com/glendasantos25)
+- [Luana Miranda](https://github.com/luanamirandaa)
+- [Pâmela Costa](https://github.com/pamis-costa)
 
 ---
